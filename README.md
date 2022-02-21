@@ -4,7 +4,9 @@ This is just a goofy project of mine to work on some regression work. I saw a Re
 
 I ended up getting a prediction date for August of 2023 using some ridge regression.
 
-![results](results.jpg)
+<p> align="center">
+  <img width="600" height="200" src="results.jpg">
+</p>
 
 Things I may try and find predictors on besides tWoW and ADoS:
 
